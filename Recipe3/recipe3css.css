@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f2b8b3;
+}
+.bigtext{
+    font-size: 20px;
+}
+
+.video{
+    height: 500px;
+    width: 500px;
+    border: 5px solid  brown;
+    border-radius: 15px;
+}
+.salign{
+    height: 425px;
+}
+
+
